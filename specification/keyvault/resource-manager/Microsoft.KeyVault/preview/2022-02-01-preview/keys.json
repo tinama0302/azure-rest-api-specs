@@ -614,8 +614,8 @@
           "type": "string",
           "description": "The type of action.",
           "enum": [
-            "rotate",
-            "notify"
+            "Rotate",
+            "Notify"
           ],
           "x-ms-enum": {
             "name": "KeyRotationPolicyActionType",
