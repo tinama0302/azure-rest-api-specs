@@ -3105,7 +3105,7 @@
         "tags": [
           "ManagedClusters"
         ],
-        "operationId": "ManagedClusters_GuardrailsVersions",
+        "operationId": "ManagedClusters_GetGuardrailsVersions",
         "summary": "Gets supported Guardrails version in the specified subscription and location.",
         "description": "Contains Guardrails version along with its support info and whether it is a default version.",
         "parameters": [
